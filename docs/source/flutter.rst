@@ -1,9 +1,9 @@
 Flutter
 =======
 
-This project takes advantage of the Channel API provided by the [Flutter](https://flutter.io) framework to create a simple chat application.
+This project takes advantage of the Channel API provided by the `[Flutter](https://flutter.io)` framework to create a simple chat application.
 
-Read more about the Channel API [here](https://flutter.io/platform-channels/). And read more about the Flutter streamChannel class [here](https://api.flutter.dev/flutter/package-stream_channel_stream_channel/StreamChannel-class.html).
+Read more about the Channel API `[here](https://flutter.io/platform-channels/)`. And read more about the Flutter streamChannel class `[here](https://api.flutter.dev/flutter/package-stream_channel_stream_channel/StreamChannel-class.html)`.
 
 
 
