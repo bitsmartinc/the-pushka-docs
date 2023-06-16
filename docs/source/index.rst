@@ -6,7 +6,6 @@ Welcome to Pushka POS documentation!
 Read more about them `Here <https://www.thepushka.org>`
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,4 +17,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   android
+   flutter
