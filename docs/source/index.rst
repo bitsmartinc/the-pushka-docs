@@ -1,7 +1,7 @@
 Welcome to Pushka POS documentation!
 ===================================
 
-**Pushka ** is a point of sale system for organizations to accept donations with credit cards.
+**Pushka** is a point of sale system for organizations to accept donations with credit cards.
 
 Read more about them `Here <https://www.thepushka.org>`
 
