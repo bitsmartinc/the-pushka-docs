@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Pushka'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, Shimon Brandsdorfer'
+author = 'Shimon Brandsdorfer'
 
 release = '0.1'
 version = '0.1.0'
