@@ -13,4 +13,5 @@ To find the jar files, refer to the `src` directory of the project on `github <h
 
 .. _usage:
 
-If you develop with java you can use the following code to use the library:
+If you develop with java refer to the `doc:android` section.
+If you develop with flutter refer to the `doc:flutter` section.

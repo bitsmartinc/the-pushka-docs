@@ -11,6 +11,13 @@ Check out the :doc:`usage` section for further information, including
 
    This project is under active development.
 
+
+.. clarification::
+
+   This documentation is intended for mobile app developers who want to integrate Pushka POS into their apps. (using the POS terminal provided by Pushka).
+   You will have to know how to develop an Android app or a Flutter app to use this documentation.
+
+
 Contents
 --------
 
