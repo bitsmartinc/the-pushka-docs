@@ -8,7 +8,8 @@ Read more about the Channel API `[here](https://flutter.io/platform-channels/)`.
 
 
 ## Getting Started
-In your flutter application you register a method and an event Channel, like the following
+In your flutter application you should have a service dedicated for reading credit card.
+Register a method and an event Channel, like the following:
 
 .. code-block:: dart
     static const platform = MethodChannel('com.example.Brodpay_donation/payment');
@@ -40,3 +41,6 @@ In your flutter application you register a method and an event Channel, like the
             print(error);
         });
     }
+
+
+To see the full code example for the service, check out the example file in this repository `[here](https://github.com/bitsmartinc/the-pushka-docs/blob/main/src/flutter-service.dart)`
