@@ -12,7 +12,7 @@ In your flutter application you should have a service dedicated for reading cred
 Register Method & Event Channels
 --------------------------------
 
-Register a method and an event Channel, like the following
+Register a method and an event Channel, like the following:
 
 .. code-block:: dart
 
@@ -40,7 +40,8 @@ Starting the scan process
 
 Listening for the card info
 ---------------------------
-.. code-block:: dart
+
+..  code-block:: dart
     StreamSubscription _subscription;
     void _listenForCardInfo() {
         _subscription = event.receiveBroadcastStream().listen((data) {
