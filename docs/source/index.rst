@@ -7,7 +7,7 @@ Read more about them `Here <https://www.theBrodpay.org>`
 
 .. note::
 
-   This project is under active development.
+   This documentation is still being written. If you have any questions, please contact us.
 
 
 .. clarification::
