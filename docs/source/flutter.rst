@@ -1,15 +1,23 @@
 Flutter
 =======
 
-This project takes advantage of the Channel API provided by the `[Flutter](https://flutter.io)` framework to create a simple chat application.
+This project takes advantage of the Channel API provided by the `Flutter <https://flutter.io>` framework to create a simple chat application.
 
-Read more about the Channel API `[here](https://flutter.io/platform-channels/)`. And read more about the Flutter streamChannel class `[here](https://api.flutter.dev/flutter/package-stream_channel_stream_channel/StreamChannel-class.html)`.
+Read more about the Channel API `Here <https://flutter.io/platform-channels/>`. And read more about the Flutter streamChannel class `here <https://api.flutter.dev/flutter/package-stream_channel_stream_channel/StreamChannel-class.html>`.
 
 
 
-## Getting Started
+Getting Started
+---------------
 In your flutter application you should have a service dedicated for reading credit card.
+
+
+Register Method & Event Channels
+--------------------------------
+
 Register a method and an event Channel, like the following:
+
+
 
 .. code-block:: dart
     static const platform = MethodChannel('com.example.Brodpay_donation/payment');
@@ -17,7 +25,8 @@ Register a method and an event Channel, like the following:
 
 
 
-## Starting the scan process
+Starting the scan process
+-------------------------
 
 .. code-block:: dart
     Future<void> _startScan() async {
