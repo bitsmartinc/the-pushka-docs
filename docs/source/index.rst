@@ -5,8 +5,6 @@ Welcome to Brodpay POS Terminal documentation!
 
 Read more about them `Here <https://www.theBrodpay.org>`
 
-Check out the :doc:`usage` section for further information, including
-
 .. note::
 
    This project is under active development.
@@ -26,3 +24,4 @@ Contents
    usage
    android
    flutter
+   emv-data
