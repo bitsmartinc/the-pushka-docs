@@ -1,1 +1,1 @@
-A documentation and tutorial how to use the Pushka POS
+A documentation and tutorial how to use the Brodpay POS

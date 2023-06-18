@@ -14,8 +14,8 @@ import android.os.Looper;
 
 public class MainActivity extends FlutterActivity {
   public static MainActivity instance;
-  private static final String CHANNEL = "com.example.pushka_donation/payment";
-  private static final String CHANNEL_STREAM = "com.example.pushka_donation/card_info";
+  private static final String CHANNEL = "com.example.Brodpay_donation/payment";
+  private static final String CHANNEL_STREAM = "com.example.Brodpay_donation/card_info";
   private Handler uiThreadHandler = new Handler(Looper.getMainLooper());
 
   private EventChannel.EventSink eventSink;

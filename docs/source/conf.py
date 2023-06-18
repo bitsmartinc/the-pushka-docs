@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Pushka'
+project = 'Brodpay'
 copyright = '2023, Shimon Brandsdorfer'
 author = 'Shimon Brandsdorfer'
 

@@ -10,14 +10,15 @@ Read more about the Channel API `[here](https://flutter.io/platform-channels/)`.
 ## Getting Started
 In your flutter application you register a method and an event Channel, like the following
 
-```dart
-    static const platform = MethodChannel('com.example.pushka_donation/payment');
-    static const event = EventChannel('com.example.pushka_donation/card_info');
-```
+.. code-block:: dart
+    static const platform = MethodChannel('com.example.Brodpay_donation/payment');
+    static const event = EventChannel('com.example.Brodpay_donation/card_info');
+
 
 
 ## Starting the scan process
-```dart
+
+.. code-block:: dart
     Future<void> _startScan() async {
         try {
             String result = await platform.invokeMethod('startTransaction');
@@ -26,11 +27,11 @@ In your flutter application you register a method and an event Channel, like the
             print(e.message);
         }
     }
-```
+
 
 
 ## Listening for the card info
-```dart
+.. code-block:: dart
     StreamSubscription _subscription;
     void _listenForCardInfo() {
         _subscription = event.receiveBroadcastStream().listen((data) {
@@ -39,4 +40,3 @@ In your flutter application you register a method and an event Channel, like the
             print(error);
         });
     }
-```
