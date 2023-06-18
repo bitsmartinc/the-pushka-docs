@@ -86,7 +86,7 @@ Reading the EMV data
 
 In the above example, the data received from the event channel is a string, in the format of key-value pairs.
 
-See `:docs:emv-data` for more information on how to read the EMV data.
+See :docs:`emv-data` for more information on how to read the EMV data.
 
 
 
