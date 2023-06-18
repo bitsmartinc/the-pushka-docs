@@ -21,6 +21,7 @@ Contents
 
 .. toctree::
 
+   intro
    usage
    android
    flutter
