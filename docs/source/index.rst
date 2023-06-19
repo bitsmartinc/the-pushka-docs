@@ -7,7 +7,8 @@ Read more about them `Here <https://www.theBrodpay.org>`
 
 .. note::
 
-   This documentation is still being written. If you have any questions, please contact us at `info@brodpay.com <mailto:info@brodpay.com>`_.
+   This documentation is still maintained and updated.
+   If you have any questions, please contact us at `info@brodpay.com <mailto:info@brodpay.com>`_.
 
 
 .. clarification::
